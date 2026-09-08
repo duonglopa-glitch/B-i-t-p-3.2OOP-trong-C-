@@ -1,0 +1,7 @@
+C:\Users\LOQ\source\repos\Bài tập 3.2 OOP trong C#\Bài tập 3.2 OOP trong C#\obj\Debug\Bài tập 3.2 OOP trong C#.csproj.AssemblyReference.cache
+C:\Users\LOQ\source\repos\Bài tập 3.2 OOP trong C#\Bài tập 3.2 OOP trong C#\obj\Debug\Bài tập 3.2 OOP trong C#.csproj.CoreCompileInputs.cache
+C:\Users\LOQ\source\repos\Bài tập 3.2 OOP trong C#\Bài tập 3.2 OOP trong C#\bin\Debug\Bài tập 3.2 OOP trong C#.exe.config
+C:\Users\LOQ\source\repos\Bài tập 3.2 OOP trong C#\Bài tập 3.2 OOP trong C#\bin\Debug\Bài tập 3.2 OOP trong C#.exe
+C:\Users\LOQ\source\repos\Bài tập 3.2 OOP trong C#\Bài tập 3.2 OOP trong C#\bin\Debug\Bài tập 3.2 OOP trong C#.pdb
+C:\Users\LOQ\source\repos\Bài tập 3.2 OOP trong C#\Bài tập 3.2 OOP trong C#\obj\Debug\Bài tập 3.2 OOP trong C#.exe
+C:\Users\LOQ\source\repos\Bài tập 3.2 OOP trong C#\Bài tập 3.2 OOP trong C#\obj\Debug\Bài tập 3.2 OOP trong C#.pdb
